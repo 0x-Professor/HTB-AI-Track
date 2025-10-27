@@ -127,4 +127,4 @@ htb{...}
 
 - [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
 - [Gensim Documentation](https://radimrehurek.com/gensim/)
-- [Official Writeup](https://a-z.fi/ctf-writeups/HTB-Like-A-Glove)
+- [Reference Writeup](https://a-z.fi/ctf-writeups/HTB-Like-A-Glove)
