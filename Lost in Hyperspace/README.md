@@ -158,7 +158,7 @@ def nearest_neighbor_chain(reduced, tokens, start_idx=None):
 Starting from the correct 'H' (at index 89) and following the nearest-neighbor chain:
 
 ```
-HTB{L0ST_1N_TH3_SP1R4L}
+HTB{...}
 ```
 
 The remaining characters after the flag are just noise/padding in the dataset.
@@ -193,7 +193,7 @@ The script will:
 2. Apply PCA to reduce to 2D
 3. Create a visualization (`projection_2d.png`)
 4. Find the flag using nearest-neighbor traversal
-5. Print the flag: `HTB{L0ST_1N_TH3_SP1R4L}`
+5. Print the flag: `HTB{...}`
 
 **Dependencies:**
 - numpy
@@ -202,4 +202,4 @@ The script will:
 
 ---
 
-**Flag:** `HTB{L0ST_1N_TH3_SP1R4L}`
+**Flag:** `HTB{...}`
