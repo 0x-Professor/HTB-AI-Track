@@ -142,7 +142,7 @@ def main():
     
     if flag:
         print("\n" + "=" * 70)
-        print(f"🚩 FLAG FOUND: {flag}")
+        print(f"FLAG FOUND: {flag}")
         print("=" * 70)
         return flag
     else:
